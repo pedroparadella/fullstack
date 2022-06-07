@@ -37,4 +37,4 @@ Seja bem-vindo, o intuito do teste não é reprovar e sim conhecer seu melhor es
 * Deixaremos que no Front-end fique ao seu critério qual tecnologia utilizar no entanto você terá mais pontos conosco se utilizar React para criação da interface. No Back-end a API deverá ser construída em .Net 5/6.
 
 ## Desafios se você se sentir confiante
-* Utilizar OData na API e consumir no front usando o poder do OData.
+* Utilizar OData ou GraphQL na API e consumir no front usando o poder do OData/GraphQL.
