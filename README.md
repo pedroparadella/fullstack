@@ -5,7 +5,7 @@ Tudo bem?! 😊\
 Seja bem-vindo, o intuito do teste não é reprovar e sim conhecer seu melhor estilo de programar e resolver problemas.
 
 ## O que fazer no Back-end
-1. Disponibilizaremos uma máquina windows para hospedar a API e enviaremos o perfil de publicação para o desenvolvimento da API. Também será disponibilizado um banco de dados SQL Server com seu usuário e senha para o desenvolvimento do banco.
+1. Disponibilizaremos uma máquina windows para hospedar a API([Web App](https://docs.microsoft.com/pt-br/aspnet/core/web-api/?WT.mc_id=dotnet-35129-website&view=aspnetcore-6.0)) e enviaremos o [perfil de publicação](https://docs.microsoft.com/pt-br/visualstudio/deployment/quickstart-deploy-aspnet-web-app?view=vs-2022&tabs=import-profile) para o desenvolvimento da API. Também será disponibilizado um banco de dados [Azure SQL Server](https://docs.microsoft.com/pt-br/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql) com seu usuário e senha para o desenvolvimento do banco.
 2. Crie um repositório no GitHub para a API.
 3. Use esse repositório para desenvolver a API.
 4. Com o banco de dados SQL Server enviado pela Ímpar, criar a estrutura a partir da seguinte UML:\
