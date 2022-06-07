@@ -24,7 +24,7 @@ Seja bem-vindo, o intuito do teste não é reprovar e sim conhecer seu melhor es
 6. Implementar a funcionalidade de paginação(carregar mais) dos cards na melhor forma possível com a API criada e publicada.
 7. Fazer o CRUD(editar/excluir/novo card) da melhor forma possível com a API criada e publicada.
 
-##Ao finalizar o código
+## Ao finalizar o código
 1. Publicar a API na máquina disponibilizada através do perfil de publicação.
 2. Crar um README na raiz do repositório do Front-end com as instruções de como podemos fazer o seu código rodar na nossa máquina. Ou seja, passo a passo do que instalar e de quais comandos rodar para podermos visualizar o seu trabalho!
 3. Enviar um e-mail para processoseletivo@impar.com.br com o assunto "Avaliação FullStack", informando que finalizou a avaliação e colocando os links dos seus repositórios GitHub com o código feito da API e do Front-end. 
